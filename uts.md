@@ -22,8 +22,11 @@ berat total pakaian yang ingin mereka laundry, seberapa cepat mereka menginginka
 ## 1.3. Branding
 
 Merk : yuuLAUNDRY
+
 Tagline : Cuci supaya hepi no ribet-ribet
+
 Campaign : Membuat aplikasi yang memudahkan dan membantu mendorong jasa laundry
+
 Target User : 
   - Usia 13+
   - Seseorang yang jauh dari lokasi laundry
@@ -32,6 +35,7 @@ Target User :
   - Seseorang yang ingin sibuk/tidak punya waktu dan tidak bisa mencuci bajunya
   - Seseorang yang alat mencuci bajunya sedang rusak
   - Seseorang yang sedang malas mencuci bajunya
+    
 User experience theme :
   - Mudah
   - Sederhana
