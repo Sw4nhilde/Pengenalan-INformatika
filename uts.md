@@ -1,15 +1,12 @@
 ## 1.1 Latar Belakang
 
-Di masa modern ini kita sebagai manusia sudah semakin terbiasa dengan gaya hidup praktis dan cepat, gaya hidup ini tercermin dari berbagai pilihan yang kita lakukan. Seperti belanja melalui
-E-commerce, memesan makanan melalui aplikasi online, bahkan tersedia juga aplikasi ojek online (Ex: GoJek, Grab, Maxim, Uber, dll) yang di aplikasi tersebut ada fitur yang memungkinkan kita untuk
+Di masa modern ini kita sebagai manusia sudah semakin terbiasa dengan gaya hidup praktis dan cepat, gaya hidup ini tercermin dari berbagai pilihan yang kita lakukan. Seperti belanja melalui E-commerce, memesan makanan melalui aplikasi online, bahkan tersedia juga aplikasi ojek online (Ex: GoJek, Grab, Maxim, Uber, dll) yang di aplikasi tersebut ada fitur yang memungkinkan kita untuk
 melakukan kegiatan pembelian, transaksi, dan penjualan dari rumah. Tanpa harus bertatap muka (Ex: belanja bulanan, pembayaran E-commerce, pembelian/penjualan makanan, dll).
-Salah satu contoh dari gaya hidup modern yang praktis dan cepat ini adalah cara kita mencuci pakaian, yang awalnya bermula dengan enggunakan tangan kita, lalu diciptakannya mesin cuci yang sangat
-memudahkan kita dalam proses mencuci baju. Sampai pada akhirnya terciptalah bisnis Laundry, dimana bisnis Laundry ini menawarkan jasa pencucian dan penyetrikaan baju. Jadi kita tidak usah pusing
-mencuci dan menyetrika baju kita sendiri, karena sekarang dengan menggunakan bisnis Laundry ini kita cukup membayar biaya yang diperlukan untuk jasa mereka dan bisa tenang tentang urusan mencuci
-baju dan menyetrikanya.
-Dengan melihat perkembangan dan kemajuan dari bisnis Laundry ini di negara kita indonesia, ada celah kesempatan yang bisa diambil. Yaitu, walaupun sudah banyak bisnis Laundry ini yang berdiri dan
-dan mendapati sukses/perhatian di kalangan orang Indonesia, masih belum ada aplikasi yang bisa memudahkan kita untuk memesan jasa Laundry tanpa harus bertatap muka. Ini menjadi alasan utama kenapa saya
-mencoba untuk membuat dan mengembangkan aplikasi yang dapat memudahkan kita dalam memesan jasa Laundry.
+
+Salah satu contoh dari gaya hidup modern yang praktis dan cepat ini adalah cara kita mencuci pakaian, yang awalnya bermula dengan enggunakan tangan kita, lalu diciptakannya mesin cuci yang sangatb memudahkan kita dalam proses mencuci baju. Sampai pada akhirnya terciptalah bisnis Laundry, dimana bisnis Laundry ini menawarkan jasa pencucian dan penyetrikaan baju. Jadi kita tidak usah pusing
+mencuci dan menyetrika baju kita sendiri, karena sekarang dengan menggunakan bisnis Laundry ini kita cukup membayar biaya yang diperlukan untuk jasa mereka dan bisa tenang tentang urusan mencuci baju dan menyetrikanya.
+
+Dengan melihat perkembangan dan kemajuan dari bisnis Laundry ini di negara kita indonesia, ada celah kesempatan yang bisa diambil. Yaitu, walaupun sudah banyak bisnis Laundry ini yang berdiri dan dan mendapati sukses/perhatian di kalangan orang Indonesia, masih belum ada aplikasi yang bisa memudahkan kita untuk memesan jasa Laundry tanpa harus bertatap muka. Ini menjadi alasan utama kenapa saya mencoba untuk membuat dan mengembangkan aplikasi yang dapat memudahkan kita dalam memesan jasa Laundry.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
