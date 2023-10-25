@@ -10,10 +10,9 @@ Dengan melihat perkembangan dan kemajuan dari bisnis Laundry ini di negara kita 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi ini saya buat dan kembangkan dengan harapan dapat membantu/memudahkan masyarakat dalam memesan jasa Laundry, tidak semua orang mau dan mampu mencuci serta menyetrika bajunya sendiri dengan alasan
-tersendiri (ex: Tidak punya mesin cuci dan setrika, fisik tidak mumpuni, mencari air bersih susah, dll). 
-Dengan aplikasi ini saya berharap bisa membantu masyarakat baik dari pihak pelanggan dan pihak pengusaha, pihak pelanggan akan lebih terbantu ketika ingin mencuci bajunya dan pihak pengusaha bisa lebih 
-mengembangkan usahanya karena bisa medai jangkauannya bertambah. Di aplikasi ini pelanggan bisa menentukan tempat laundry mana yang mereka inginkan dan memesan keperluan mereka dengan bebas mulai dari berapa 
+Aplikasi ini saya buat dan kembangkan dengan harapan dapat membantu/memudahkan masyarakat dalam memesan jasa Laundry, tidak semua orang mau dan mampu mencuci serta menyetrika bajunya sendiri dengan alasan tersendiri (ex: Tidak punya mesin cuci dan setrika, fisik tidak mumpuni, mencari air bersih susah, dll). 
+
+Dengan aplikasi ini saya berharap bisa membantu masyarakat baik dari pihak pelanggan dan pihak pengusaha, pihak pelanggan akan lebih terbantu ketika ingin mencuci bajunya dan pihak pengusaha bisa lebih mengembangkan usahanya karena bisa medai jangkauannya bertambah. Di aplikasi ini pelanggan bisa menentukan tempat laundry mana yang mereka inginkan dan memesan keperluan mereka dengan bebas mulai dari berapa 
 berat total pakaian yang ingin mereka laundry, seberapa cepat mereka menginginkannya kembali, mau diapakan pakaiannya mereka (ex: Cuci & Sterika, cuci kering, dll).
 
 ## 1.3. Branding
