@@ -54,7 +54,7 @@ Driver    | Akses aplikasi peta    | Mengetahui lokasi pelanggan dan laundry yan
 
 ## 3. Struktur Data
 
-'''mermaid
+```mermaid
 erDiagram
     PELANGGAN ||--o{ PESANAN : pesan
     PELANGGAN {
@@ -90,7 +90,7 @@ erDiagram
     PENGENDARA {
         
     }
-'''
+```
 
 
 ## 4. Arsitektur Sistem
