@@ -17,9 +17,9 @@ berat total pakaian yang ingin mereka laundry, seberapa cepat mereka menginginka
 
 ## 1.3. Branding
 
-Merk : yuuLAUNDRY
+Merk : hearthLAUNDRY
 
-Tagline : Cuci supaya hepi no ribet-ribet
+Tagline : Cuci baju no ribet-ribet
 
 Campaign : Membuat aplikasi yang memudahkan dan membantu mendorong jasa laundry
 
@@ -54,33 +54,44 @@ Driver    | Akses aplikasi peta    | Mengetahui lokasi pelanggan dan laundry yan
 
 ## 3. Struktur Data
 
----
-title: Cuci & Setrika reguler 6kg
----
+'''mermaid
 erDiagram
-    PELANGGAN ||--o{ Cuci & Setrika reguler : places
-    ORDER ||--|{ Baju 6kg : contains
-    PELANGGAN }|..|{ alamat pelanggan : uses
-
-
-
-erDiagram
-    DRIVER ||--o{ PESANAN PELANGGAN : places
-    DRIVER {
-        string pelanggan
-        string pesanan
-        string alamat pelanggam
+    PELANGGAN ||--o{ PESANAN : pesan
+    PELANGGAN {
+        string id_pelanggan
+        string nama_lengkap
+        string email
+        string alamat_pelanggan
     }
-    PESANAN PELANGGAN ||--|{ PENGUSAHA : contains
-    PESANAN PELANGGAN {
-        int 6kg
-        string alamat laundry
+    PESANAN {
+        string pemesanan
+        string id_pelanggan
+        int tipe_pemesanan
+        string id_pengendara
+        timestamp waktu_pemesanan
     }
-    PENGUSAHA {
-        string Cuci & Setrika reguler
-        int 6kg
-        float harga untuk cuci setrika 6kg
+    PENGENDARA ||--o{ PESANAN : mengambil_pesanan
+    PENGENDARA {
+        string id_pengendara
+        string nama_lengkap
+        string email
     }
+    PENGENDARA ||--o{ LAUNDRY : menyerahkan
+    PENGENDARA {
+    }
+    LAUNDRY ||--o{ PENGENDARA : dikembalikan
+    LAUNDRY {
+        string id_pengusaha
+        string nama_pengusaha
+        string email
+        string alamat_laundry
+    }
+    PENGENDARA ||--o{ PELANGGAN : dikembalikan
+    PENGENDARA {
+        
+    }
+'''
+
 
 ## 4. Arsitektur Sistem
 
