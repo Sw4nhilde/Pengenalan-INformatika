@@ -52,13 +52,16 @@ Pelanggan | Memesan jasa laundry   | Mencuci pakaian saya dengan praktis dan tid
 Pelanggan | Mengatur pesanan saya  | Pakaian saya dicuci sesuai dengan kemauan saya          | ⭐⭐⭐⭐⭐
 Pelanggan | Memberi review         | Bisa menilai jasa layanan yang telah dipesan            | ⭐⭐
 Pelanggan | Melakukan Login        | Mendafatarkan diri di aplikasi untuk menggunakan aplikasi | ⭐⭐⭐⭐⭐
-Pelanggan | Berbicara dengan driver | Mengkonfirmasi pesanan dan lokasi                      | ⭐⭐⭐⭐
+Pelanggan | Berbicara dengan driver | Mengkonfirmasi pesanan dan lokasi penjemputan          | ⭐⭐⭐
+Pelanggan | Berbicara dengan pengusaha | Mengkonfirmasi alur pesanan dan waktu pengembalian  | ⭐⭐⭐
 Pelanggan | Memilih tempat laundry | Agar pakaian saya dicuci di tempat yang sudah dipercaya | ⭐⭐⭐⭐
-Pengusaha | Mempromosikan usaha   | Meraup keuntungan lebih banyak                          | ⭐⭐⭐
+Pengusaha | Mempromosikan usaha   | Meraup keuntungan lebih banyak                          | ⭐
 Pengusaha | Melakukan Login        | Agar bisa membuka tempat online dari bisnis laundrynya  | ⭐⭐⭐⭐⭐
 Pengusaha | Merubah laman tokonya  | Menyesuaikan tampilan laman tokonya sesuai dengan keinginannya | ⭐⭐
-Pengusaha | Berbicara dengan Pelanggan | Memastikan kembali pesanan dan memberikan informasi tentang alur pesanan kepada pelanggan |⭐⭐⭐⭐
+Pengusaha | Berbicara dengan Pelanggan | Memastikan kembali pesanan dan memberikan informasi tentang alur pesanan kepada pelanggan |⭐⭐⭐
 Pengusaha | Membuat toko di app    | Memulai kegiatan promosi dan menambah jangakuan         | ⭐⭐⭐⭐⭐
+Pengusaha | Berbicara dengan driver | Mengkonfirmasi pesanan dan lokasi driver serta lokasi laundry | ⭐⭐⭐
+Pengusaha | Memasang layanan di laman toko | Menarik perhatian pelanggan untuk memesan jasanya | ⭐⭐⭐⭐
 Driver    | Mendaftar jadi mitra   | Bisa dipanggil oleh pelanggan yang memesan              | ⭐⭐⭐⭐⭐
 Driver    | Akses aplikasi peta    | Mengetahui lokasi pelanggan dan laundry yang dipilih    | ⭐⭐⭐⭐
 
