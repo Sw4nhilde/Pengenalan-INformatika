@@ -50,8 +50,14 @@ Sebagai   | Saya ingin bisa        | Sehingga                                   
 ----------|------------------------|---------------------------------------------------------|-------------
 Pelanggan | Memesan jasa laundry   | Mencuci pakaian saya dengan praktis dan tidak capek     | ⭐⭐⭐⭐⭐
 Pelanggan | Mengatur pesanan saya  | Pakaian saya dicuci sesuai dengan kemauan saya          | ⭐⭐⭐⭐⭐
+Pelanggan | Memberi review         | Bisa menilai jasa layanan yang telah dipesan            | ⭐⭐
+Pelanggan | Melakukan Login        | Mendafatarkan diri di aplikasi untuk menggunakan aplikasi | ⭐⭐⭐⭐⭐
+Pelanggan | Berbicara dengan driver | Mengkonfirmasi pesanan dan lokasi                      | ⭐⭐⭐⭐
 Pelanggan | Memilih tempat laundry | Agar pakaian saya dicuci di tempat yang sudah dipercaya | ⭐⭐⭐⭐
-Pengusaha | Memepromosikan usaha   | Meraup keuntungan lebih banyak                          | ⭐⭐⭐
+Pengusaha | Mempromosikan usaha   | Meraup keuntungan lebih banyak                          | ⭐⭐⭐
+Pengusaha | Melakukan Login        | Agar bisa membuka tempat online dari bisnis laundrynya  | ⭐⭐⭐⭐⭐
+Pengusaha | Merubah laman tokonya  | Menyesuaikan tampilan laman tokonya sesuai dengan keinginannya | ⭐⭐
+Pengusaha | Berbicara dengan Pelanggan | Memastikan kembali pesanan dan memberikan informasi tentang alur pesanan kepada pelanggan |⭐⭐⭐⭐
 Pengusaha | Membuat toko di app    | Memulai kegiatan promosi dan menambah jangakuan         | ⭐⭐⭐⭐⭐
 Driver    | Mendaftar jadi mitra   | Bisa dipanggil oleh pelanggan yang memesan              | ⭐⭐⭐⭐⭐
 Driver    | Akses aplikasi peta    | Mengetahui lokasi pelanggan dan laundry yang dipilih    | ⭐⭐⭐⭐
