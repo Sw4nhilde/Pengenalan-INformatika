@@ -1,34 +1,34 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-https://youtu.be/WUacE5FANY8?si=iU_mZ36_-nIL3T47
+    https://youtu.be/WUacE5FANY8?si=iU_mZ36_-nIL3T47
 
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-https://youtu.be/guvBv40FQuo?si=h91z5FIWeFQQZ3ca
+    https://youtu.be/guvBv40FQuo?si=h91z5FIWeFQQZ3ca
 
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-https://youtu.be/j6lHAhvQoH8?si=SmEQaDN4sU-I_YeX
+    https://youtu.be/j6lHAhvQoH8?si=SmEQaDN4sU-I_YeX
 
 
 ## Mencoba Console Sistem Operasi
     Windows CMD [v] ⭐⭐⭐⭐ & Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-https://youtu.be/FkBhvefr6UM?si=AmOEVyQg-fssBnXC
+    https://youtu.be/FkBhvefr6UM?si=AmOEVyQg-fssBnXC
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-https://youtu.be/R8gYyj5tLCE?si=VdALWfqisOHk0vHb
+    https://youtu.be/R8gYyj5tLCE?si=VdALWfqisOHk0vHb
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-https://youtu.be/0vHSrSEhhkI?si=LQITJ-pGjOrpGkvB
+    https://youtu.be/0vHSrSEhhkI?si=LQITJ-pGjOrpGkvB
 
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
@@ -38,7 +38,7 @@ https://youtu.be/0vHSrSEhhkI?si=LQITJ-pGjOrpGkvB
 
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-https://youtu.be/glnVaiR3UzY?si=m_0fhMVOOaDHHAss
+    https://youtu.be/glnVaiR3UzY?si=m_0fhMVOOaDHHAss
 
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
@@ -125,17 +125,17 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-https://youtu.be/Iu4eKfIAY_Y?si=0-rWSOE-ZHQ7I4Me
+    https://youtu.be/Iu4eKfIAY_Y?si=0-rWSOE-ZHQ7I4Me
 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-https://youtu.be/bTEtH3IFXWY?si=Qdx5vI5BQkqAAlhT
+    https://youtu.be/bTEtH3IFXWY?si=Qdx5vI5BQkqAAlhT
 
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-https://youtu.be/fCxw8oQwI-k?si=HtSyMAdVNWeeiAm4
+    https://youtu.be/fCxw8oQwI-k?si=HtSyMAdVNWeeiAm4
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
