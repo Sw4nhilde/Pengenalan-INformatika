@@ -10,7 +10,7 @@ https://youtu.be/guvBv40FQuo?si=h91z5FIWeFQQZ3ca
 https://youtu.be/j6lHAhvQoH8?si=SmEQaDN4sU-I_YeX
 
 ## Mencoba Console Sistem Operasi
-Windows CMD [v] ⭐⭐⭐⭐ & Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+    Windows CMD [v] ⭐⭐⭐⭐ & Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 https://youtu.be/FkBhvefr6UM?si=AmOEVyQg-fssBnXC
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
