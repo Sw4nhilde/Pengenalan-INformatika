@@ -3,48 +3,57 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/WUacE5FANY8?si=iU_mZ36_-nIL3T47
 
+
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 https://youtu.be/guvBv40FQuo?si=h91z5FIWeFQQZ3ca
 
+
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 https://youtu.be/j6lHAhvQoH8?si=SmEQaDN4sU-I_YeX
+
 
 ## Mencoba Console Sistem Operasi
     Windows CMD [v] ⭐⭐⭐⭐ & Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 https://youtu.be/FkBhvefr6UM?si=AmOEVyQg-fssBnXC
 
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 https://youtu.be/R8gYyj5tLCE?si=VdALWfqisOHk0vHb
 
+
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 https://youtu.be/0vHSrSEhhkI?si=LQITJ-pGjOrpGkvB
 
+
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/glnVaiR3UzY?si=m_0fhMVOOaDHHAss
 
+
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
+
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
@@ -118,13 +127,16 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 https://youtu.be/Iu4eKfIAY_Y?si=0-rWSOE-ZHQ7I4Me
 
+
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://youtu.be/bTEtH3IFXWY?si=Qdx5vI5BQkqAAlhT
 
+
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 https://youtu.be/fCxw8oQwI-k?si=HtSyMAdVNWeeiAm4
+
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
